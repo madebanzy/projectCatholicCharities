@@ -1,0 +1,93 @@
+body {
+    font-family: sans-serif;
+    height: 50px;
+    margin: 0;
+    margin-bottom: 60%;
+
+}
+
+.head {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    gap: 30px;
+    font-family: "quicksand" sans-serif;
+    font-weight: bold;
+}
+
+.nav-menu {
+    text-decoration: none;
+    color: black;
+    font-size: small;
+}
+
+button {
+    border-radius: 40px;
+    background-color: rgb(247, 0, 255);
+    color: white;
+    border: none;
+    height: 41px;
+    width: 180px;
+    margin-left: 150px;
+    margin-top: 25px;
+
+}
+
+#donate {
+    font-size: small;
+    border-radius: 40px;
+    height: 41px;
+    width: 100px;
+    text-align: center;
+}
+
+main {
+    background-image: url(../img/about\ us.jpg);
+    background-repeat: no-repeat;
+    background-position: 30%;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.serving {
+    background-color: rgb(48, 48, 129);
+    display: flex;
+    justify-content: center;
+    font-size: x-large;
+    text-align: center;
+    color: white;
+    align-items: center;
+    height: 350px;
+    width: 700px;
+    border-radius: 0px 200px 200px 0px;
+    margin-right: 100px;
+    
+}
+
+.about-us {
+    height: 350px;
+    width: 700px;
+}
+.vision-mision {
+    margin-top: 0px;
+    height: 300px;
+    width: 100%;
+    background-color: white;
+}
+
+h5 {
+    color: black;
+    margin-top: 10px;
+    text-align: center;
+}
+
+h3 {
+    color: black;
+    text-align: center;
+}
